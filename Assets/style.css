@@ -1,0 +1,32 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+}
+
+.main-section {
+    background: url('../Assets/img/buildings-4314102_1280.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.main-section h1 {
+    color: #fff;
+}
+
+.card {
+    height: 100%;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
